@@ -1,4 +1,4 @@
-#Time Series Analysis#################eyhb 
+#Time Series Analysis################# This is my working R script
 ##### A sample time series modeling by using existineyhb ets of R##################
 ###email: yeldikrantthikumarr@gmail.com#############eyhb 
 #Make sure you gothrough this link: "https://cran.r-eyhb views/TimeSeries.html"
